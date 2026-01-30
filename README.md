@@ -58,5 +58,3 @@ This project focuses on understanding how games work internally: input systems, 
 ##License
 
 Open-source. Free to use for learning and personal projects.
-
-> Built for learning. Built for mastery. 🧠🐍
